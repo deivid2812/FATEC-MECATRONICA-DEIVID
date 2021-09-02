@@ -46,3 +46,10 @@ Sendo assim é necessário o uso dessas ferramentas para garantir o funcionament
 
 Entretanto, com a aplicação desses requisitos, a empresa deixa de se preocupar somente com a qualidade do seu produto e busca a eficiência na qualidade do seu processo.
 
+
+## Referências:
+* [O que é Controle da Qualidade Integrado?](https://www.consultoriaiso.org/o-que-e-controle-da-qualidade-integrado/)
+* [ISO 9001](https://sgssustentabilidade.com.br/iso-9001-como-ter-uma-gestao-eficiente/?utm_source=google&utm_medium=cpc&utm_campaign=economia_circular&utm_term=economia%20circular&utm_content=google_ads_ec_lr&gclid=Cj0KCQjwg7KJBhDyARIsAHrAXaG9Bw0-yI0cXDov6Dn53T9Oy7PNozScdF3njclz4ckg6aGbSoXZ4qwaAlqlEALw_wcB)
+* [CQI](https://www.faacconsultoria.com.br/post/2016/10/20/cqi-continuous-quality-improvement)
+* [O que é padronização?](https://terzoni.com.br/leanblog/padronizacao/?gclid=CjwKCAjwmqKJBhAWEiwAMvGt6Gy9sNpjyotg9V27HpoZ7XfzfkPHbBP5EAigm6uBIlKdr0xcLxmK7hoC0hAQAvD_BwEhttps://terzoni.com.br/leanblog/padronizacao/?gclid=CjwKCAjwmqKJBhAWEiwAMvGt6Gy9sNpjyotg9V27HpoZ7XfzfkPHbBP5EAigm6uBIlKdr0xcLxmK7hoC0hAQAvD_BwE)
+* [Objetivos da ISO 9001](https://www.consultoriaiso.org/iso-9001/o-que-e-iso-9001/)
